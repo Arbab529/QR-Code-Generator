@@ -65,11 +65,9 @@ form input:focus{
 
 .qr-code{
     width: 100%;
-    height: auto;
     border: 1px solid var(--dark-color);
     margin-top: 25px;
     padding: 20px;
-    transition: 0.5s;
     pointer-events: none;
     display: none;
 }
